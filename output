@@ -1,0 +1,14 @@
+Student ID: 1	First Name: John	Last Name: Smith	Email: John1989@gmail.com	Age: 20	Grades: {88,79,59}
+Student ID: 2	First Name: Suzan	Last Name: Erickson	Email: Erickson_1990@gmailcom	Age: 19	Grades: {91,72,85}
+Student ID: 3	First Name: Jack	Last Name: Napoli	Email: The_lawyer99yahoo.com	Age: 19	Grades: {85,84,87}
+Student ID: 4	First Name: Erin	Last Name: Black	Email: Erin.black@comcast.net	Age: 22	Grades: {91,98,82}
+Student ID: 5	First Name: Benjamin	Last Name: Shelton	Email: bshel12@my.wgu.edu	Age: 26	Grades: {98,94,78}
+Invalid email address: Erickson_1990@gmailcom
+Invalid email address: The_lawyer99yahoo.com
+The average grade for student 1 is 75
+The average grade for student 2 is 82
+The average grade for student 3 is 85
+The average grade for student 4 is 90
+The average grade for student 5 is 90
+Student 3 has been removed.
+Student 3 could not be found.
